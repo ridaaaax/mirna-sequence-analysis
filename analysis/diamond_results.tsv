@@ -1,0 +1,5 @@
+protein_A	protein_A	100	37	0	0	1	37	1	37	2.75e-28	80.9
+protein_A	protein_B	97.3	37	1	0	1	37	1	37	1.12e-27	79.3
+protein_B	protein_B	100	37	0	0	1	37	1	37	5.56e-28	80.1
+protein_B	protein_A	97.3	37	1	0	1	37	1	37	1.60e-27	79.0
+protein_C	protein_C	100	21	0	0	1	21	1	21	3.89e-17	52.8
