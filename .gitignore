@@ -1,0 +1,6 @@
+
+# Generated BLAST databases
+analysis/*_mirna_db.*
+
+# Generated DIAMOND databases
+analysis/*.dmnd
